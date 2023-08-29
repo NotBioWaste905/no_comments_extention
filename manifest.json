@@ -1,0 +1,10 @@
+{
+    "name": "No Comment VK",
+    "description": "Hides all comment unders posts to defend you from stupid peoples' opinions",
+    "version": "1.0",
+    "manifest_version": 3,
+    "icons": {},
+    "action": {},
+    "permissions": [],
+    "background":{}
+}
